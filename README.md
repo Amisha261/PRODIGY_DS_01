@@ -8,14 +8,14 @@ This repository contains a Python notebook in which Created a bar chart  to visu
 
 The repository contains the following file:-
 
-1.  task1.ipynb : A jupyter notebook including the code of the data visualization.
+1.  task.ipynb : A jupyter notebook including the code of the data visualization.
 2.  requirements.txt : A text file containing the libraries used to create this project
 
 ## Getting Started :-
 
 1. Clone the repository
 2. Install the required python libraries from requirments.txt
-3. Open the task1.ipynb on your system and run the file
+3. Open the task.ipynb on your system and run the file
 
 ## Results :-
 
